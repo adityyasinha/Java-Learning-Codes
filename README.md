@@ -6,15 +6,17 @@ This repository contains my learning journey codes, examples, exercises, and min
 The codes are based on the "Java Programming Masterclass for Software Developers" by Tim Buchalka (Udemy) — one of the most comprehensive courses for building a strong foundation in Java.
 
 🧠 What This Repository Contains
-Core Java basic programs
-Object-Oriented Programming (OOP) concepts and examples
-Java Collections Framework deep dive
-Exception Handling practice codes
-File Handling (I/O Streams, Readers, Writers)
-Multithreading basics
-JDBC (Database Connectivity using Java and SQLite)
-JavaFX, AWT, and Swing GUI mini-applications
-Mini-projects and assignments based on real-world scenarios
+
+. Core Java basic programs
+.Object-Oriented Programming (OOP) concepts and examples
+.Java Collections Framework deep dive
+.Exception Handling practice codes
+.File Handling (I/O Streams, Readers, Writers)
+.Multithreading basics
+.JDBC (Database Connectivity using Java and SQLite)
+.JavaFX, AWT, and Swing GUI mini-applications
+.Mini-projects and assignments based on real-world scenarios
+
 🧩 Folder Structure
 /Basics
     - Variables, Data Types, Operators, Control Statements
@@ -38,18 +40,22 @@ Mini-projects and assignments based on real-world scenarios
     - Basic GUI Projects using JavaFX, AWT, Swing
 /MiniProjects
     - Small Console-based Applications integrating multiple concepts
+
 📚 Topics Covered In Detail
+
 Category	Topics
-Java Basics	Data Types, Variables, Operators, Conditionals, Loops
-Arrays & Methods	Arrays Operations, Method Overloading, Recursion
-Object-Oriented Programming	Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation
-Collections Framework	ArrayList, LinkedList, HashMap, HashSet, TreeMap
-Exception Handling	Try-Catch Blocks, Custom Exceptions, Finally, Throw/Throws
-File Handling	FileInputStream, FileOutputStream, BufferedReader, BufferedWriter
-Multithreading	Thread Creation, Runnable Interface, Synchronization Techniques
-Database (JDBC)	SQLite Database Operations (Insert, Update, Delete, Read)
-GUI Development	JavaFX Components, AWT Frames, Swing Interfaces
+.Java Basics	Data Types, Variables, Operators, Conditionals, Loops
+.Arrays & Methods	Arrays Operations, Method Overloading, Recursion
+.Object-Oriented Programming	Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation
+.Collections Framework	ArrayList, LinkedList, HashMap, HashSet, TreeMap
+.Exception Handling	Try-Catch Blocks, Custom Exceptions, Finally, Throw/Throws
+.File Handling	FileInputStream, FileOutputStream, BufferedReader, BufferedWriter
+.Multithreading	Thread Creation, Runnable Interface, Synchronization Techniques
+.Database (JDBC)	SQLite Database Operations (Insert, Update, Delete, Read)
+.GUI Development	JavaFX Components, AWT Frames, Swing Interfaces
+
 🚀 How to Run the Codes
+
 Clone the Repository
 git clone https://github.com/adityyasinha/Java-Learning-Codes.git
 Open in any Java IDE
